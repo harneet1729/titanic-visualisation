@@ -9,7 +9,11 @@ This is a classic dataset used in many data mining tutorials and demos -- perfec
 
 Data covers passengers only, not crew
 
-## 3. Screenshot
+## 3. Description
+
+I made it using dash and plotly
+
+## 4. Screenshot
 
 
 We have created a dashboard to visualise Titanic dataset via dash web app and plotly
