@@ -1,4 +1,7 @@
-# titanic-visualisation
+# Title - Titanic Visualisation
+
+## 1. Methodology
+
 
 We have created a dashboard to visualise Titanic dataset via dash web app and plotly
 The dataset tells the numbers of deaths and survivors on the Titanic ship and their data (like gender,age, etc) which is visualised on our dashboard. 
