@@ -1,4 +1,4 @@
-# Title - Titanic Visualisation
+# Title - Data Analysis - Titanic Visualisation
 
 ## 1. Methodology
 
